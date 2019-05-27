@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1558972672 source:d:\projects\c++\blockchaindemo\main.cpp
+	<iostream>
+	"Blockchain.h"
+
+1541537883 d:\projects\c++\blockchaindemo\include\blockchain.h
+	<cstdint>
+	<vector>
+	"Block.h"
+
+1541535751 d:\projects\c++\blockchaindemo\include\block.h
+	<cstdint>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1541535742 source:d:\projects\c++\blockchaindemo\src\block.cpp
+	"Block.h"
+	"sha256.h"
+
+1541532963 d:\projects\c++\blockchaindemo\include\sha256.h
+	<string>
+
+1541537901 source:d:\projects\c++\blockchaindemo\src\blockchain.cpp
+	"Blockchain.h"
+
+1541532938 source:d:\projects\c++\blockchaindemo\src\sha256.cpp
+	<cstring>
+	<fstream>
+	"SHA256.h"
+
